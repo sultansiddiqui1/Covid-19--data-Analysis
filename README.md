@@ -1,2 +1,2 @@
 # Covid-19--data-Analysis
-analyze the covid 19 data for italy, and  come up with valuable conclusions.
+we get data about the covid-19 pandameic in italy. we understand the data, and by using libraries such as pandas, seaborn and numpy and applying data analysis we clean and visaulize data to come with trends int the data and realtions between two columns/ sectors of data. 
